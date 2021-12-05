@@ -1,0 +1,2 @@
+# discbot
+Java discbot WIP
